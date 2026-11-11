@@ -56,4 +56,4 @@ Tests de oposiciones en los que cada pregunta cita su fuente: documento, página
 
 ## Contacto
 
-Escríbeme por [LinkedIn]([https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/eduardo-pe%C3%B1a-sanguino-48729b12b/) o prueba [Dugout](https://dugout.es).
+Escríbeme por [LinkedIn](https://www.linkedin.com/in/eduardo-pe%C3%B1a-sanguino-48729b12b/) o prueba [Dugout](https://dugout.es).
